@@ -1,0 +1,4 @@
+com\inspireon\dragonfly\persistence\ImageGroupRepoTest.class
+com\inspireon\dragonfly\persistence\RecordRepoTest.class
+com\inspireon\dragonfly\persistence\UserRepoTest.class
+com\inspireon\dragonfly\persistence\MockObjectUtils.class
